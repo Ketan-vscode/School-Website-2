@@ -1,0 +1,14 @@
+li:hover {
+    background-color: blueviolet;
+    font-family: Lucida Calligraphy;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+span {
+    color: yellow;
+}
+
+h1{
+    color: white;
+} 
